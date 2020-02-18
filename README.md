@@ -1,2 +1,2 @@
 # ariel.github.io
-personal page
+personal website
