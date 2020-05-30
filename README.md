@@ -1,4 +1,4 @@
 # ariel.github.io
 Personal Website
+[visit website](https://azuniga1.github.io/)
 
-Coming soon (under construction)
